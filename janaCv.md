@@ -31,12 +31,14 @@ Seeking a web development position that will allow to use educational experience
   Lebanese baccalaureate / Life Science.
 * Lebanese university (2020-2021)
 
-   Faculty Of Science .
+   Faculty Of Science (Biology).
 * Codi Tech (2022-Present).
 ## *__Interest & Hobbies:__*
 * Football, Basketball & Volleyball
 * Writing
 * Reading books and novels
 * Outdoor activities
+* Learning Programming
+* Cooking
 
 
